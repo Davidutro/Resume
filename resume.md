@@ -58,7 +58,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 - Contributed to multiple [organization improvement proposals.](https://mips.makerdao.com/mips/list?search=davidutro&orderDirection=ASC&hideParents=false&)
 - Designed full and part-time jobs.
 - Hosted weekly office hour calls.
-- Led a project to create a GDPR-compliant stakeholder database.
+- Led collaboration with a law firm to create a GDPR-compliant stakeholder database.
 - Led cross-team collaborations.
 - Managed a team of 15 with three direct reports.
 - Managed relationships with accounting and payroll service providers.
@@ -88,9 +88,11 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 - Operated a [meetup grants program](https://blog.makerdao.com/the-maker-foundation-meetup-grants-program-comes-to-an-end/) sponsoring over 200 events in 49 countries.
 - Hosted a [weekly community call series](https://www.youtube.com/watch?v=S3NTRcu1sXw&list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI), coordinating demos, Q&As, topic discussions, and interviews.
 - Led a team that produced meeting minutes for public calls.
+- Participated in conferences and workshops.
 - Recruited and advised contributors.
 - Served on a committee that reviewed contributor project proposals.
 - Edited and wrote copy including the MakerDAO FAQs.
+- Underwent media training.
 
 **[Vitozon](https://www.sellerratings.com/amazon/usa/vitozon)**: Operations Manager, Human Resource Officer (2017/02 – 2018/10)
 
@@ -103,7 +105,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 **[Baruch College](https://www.baruch.cuny.edu/)**: Program Administrator (2016/01 – 2017/07)
 
-- Assisted in fundraising efforts by scheduling dinners, identifying potential donors, and writing messages.
+- Assisted fundraising efforts by scheduling dinners, identifying potential donors, and writing messages.
 - Drafted agendas for meetings.
 - Drafted and advised on various documents such as grant proposals, reports, memos, and more.
 - Managed Director's schedule.
