@@ -49,7 +49,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 ### Experience
 
-**[MakerDAO](https://makerdao.com/)**: Facilitator (2018/08 - 2023/01)
+**[MakerDAO](https://makerdao.com/)**: Facilitator (2021/08 - 2023/01)
 
 - Created and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on information accessibility and stakeholder coordination at MakerDAO.
 - Conducted a winddown of the team and return of excess funds.
@@ -72,6 +72,14 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
   - Contributed to call strategy and improvement.
   - Hosted and cohosted calls.
 - Underwent media & call facilitation training.
+
+**[MakerDAO](https://makerdao.com/)**: MIP Editor (2021/05 - 2021/08)
+
+- Advised proposal authors.
+- Reviewed proposals and enforced formatting rules.
+- Coordianted proposal related actions with the governance team.
+- Moderated the proposal forum category.
+- Transfered proposals from the forum to the official git repository.
 
 **[MakerDAO](https://makerdao.com/)**: Community Development Lead (2018/11 - 2021/05)
 
