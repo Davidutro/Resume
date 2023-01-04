@@ -84,14 +84,14 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 **[MakerDAO](https://makerdao.com/)**: Community Development Lead (2018/11 - 2021/05)
 
 - Created and managed a number of community-growth related projects.
-- Maintained a resource library called [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao)
-- Operated a [meetup grants program](https://blog.makerdao.com/the-maker-foundation-meetup-grants-program-comes-to-an-end/) sponsoring over 200 events in 49 countries.
+- Edited and wrote copy including the MakerDAO FAQs.
 - Hosted a [weekly community call series](https://www.youtube.com/watch?v=S3NTRcu1sXw&list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI), coordinating demos, Q&As, topic discussions, and interviews.
 - Led a team that produced meeting minutes for public calls.
+- Maintained a resource library called [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao)
+- Operated a [meetup grants program](https://blog.makerdao.com/the-maker-foundation-meetup-grants-program-comes-to-an-end/) sponsoring over 200 events in 49 countries.
 - Participated in conferences and workshops.
 - Recruited and advised contributors.
 - Served on a committee that reviewed contributor project proposals.
-- Edited and wrote copy including the MakerDAO FAQs.
 - Underwent media training.
 
 **[Vitozon](https://www.sellerratings.com/amazon/usa/vitozon)**: Operations Manager, Human Resource Officer (2017/02 – 2018/10)
@@ -115,15 +115,15 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 **[Baruch College](https://www.baruch.cuny.edu/)**: Teacher Assistant (2015/09 – 2016/01)
 
-- I TA'd for a course called "Organizations, Ethics, and Leadership", taught by Professor Bruce Lloyd Payne, which dissected a dozen short stories and treated them like case-studies for exploring leadership ethics, dilemmas, successes, and failures.
+- Assisted a course called "Organizations, Ethics, and Leadership", taught by Professor Bruce Lloyd Payne, which dissected a dozen short stories and treated them like case-studies for exploring leadership ethics, dilemmas, successes, and failures.
 - Advised students on the course and their term projects.
 - Graded in-class quizzes and essay assignments.
 
 **[New York Cares](https://www.newyorkcares.org/)**: Data Analysis & Site Design Intern (2015/09 – 2016/01)
 
-- Managed volunteer evaluations.
 - Analysed database information to identify problems within volunteer programs.
 - Collaborated on projects including survey revisions, home page redesign, and data illustration.
+- Reviewed volunteer evaluations.
 
 **[Every Nation](https://www.everynation.org/)**: Sound & Equipment Engineer, Service Coordinator (2012/10 – 2017/06)
 
