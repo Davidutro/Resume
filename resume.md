@@ -120,7 +120,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 **[New York Cares](https://www.newyorkcares.org/)**: Data Analysis & Site Design Intern (2015/09 – 2016/01)
 
 - Managed volunteer evaluations.
-- Analysed database information to identify 
+- Analysed database information to identify problems within volunteer programs.
 - Collaborated on projects including survey revisions, home page redesign, and data illustration.
 
 **[Every Nation](https://www.everynation.org/)**: Sound & Equipment Engineer, Service Coordinator (2012/10 – 2017/06)
