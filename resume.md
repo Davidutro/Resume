@@ -1,11 +1,11 @@
 # David Utrobin
 
-I'm a communications and operations professional with several years of experience and passion for improving organizations that produce powerful products. I've worked in academia, ecommerce, and crypto.
+Hi there! I'm a communications and operations professional with several years of experience and a passion for improving organizations that produce powerful products.I've worked in academia, ecommerce, and crypto.
 
-[Email](david.utro@gmail.com)
-[GitHub](https://github.com/Davidutro)
-[Twitter](https://twitter.com/davidutro)
-[LinkedIn](https://www.linkedin.com/in/davidutrobin7777)
+- [Email](david.utro@gmail.com)
+- [GitHub](https://github.com/Davidutro)
+- [Twitter](https://twitter.com/davidutro)
+- [LinkedIn](https://www.linkedin.com/in/davidutrobin7777)
 
 ## Skills
 
@@ -50,7 +50,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 **[MakerDAO](https://makerdao.com/)**: Facilitator (2018/08 - 2023/01)
 
-- Created and led the governance communications team, a team focused on information accessibility and stakeholder coordination at MakerDAO.
+- Created and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on information accessibility and stakeholder coordination at MakerDAO.
 - Conducted a winddown of the team and return of excess funds.
 - Conducted human resource related activities including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
 - Conducted stakeholder alignment calls for cross-team initiatives.
@@ -64,7 +64,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 - Managed the team's multi-sig wallets.
 - Moderated the public forums.
 - Participated in conferences and workshops.
-- Performed parallel accounting and published public financials monthly.
+- Performed parallel accounting and published [public monthly financials.](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting)
 - Raised over $750,000 to fund the team.
 - Supported company calls.
   - Created slide decks, banners, and thumbnails.
