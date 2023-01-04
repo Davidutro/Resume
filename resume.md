@@ -18,20 +18,20 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 | budgeting | active listening |
 | copywriting | adaptability |
 | editing | attention to detail |
-| firing | call facilitation |
-| grammar | communication |
-| hiring | conflict resolution |
-| interviewing | creativity |
-| note taking | decision making |
-| performance tracking | delegation |
-| policy creation | emotional intelligence |
-| project design | empathy |
-| project management | idea exchange |
-| research | integrity |
-| role design | leadership |
-| working in git | mediation |
-|  | moderation |
-|  | persuasion |
+| excel/sheets | call facilitation |
+| firing | communication |
+| git (version control system) | conflict resolution |
+| grammar | creativity |
+| hiring | decision making |
+| interviewing | delegation |
+| markdown | emotional intelligence |
+| note taking | empathy |
+| performance tracking | idea exchange |
+| policy creation | integrity |
+| project design | leadership |
+| project management | mediation |
+| research | moderation |
+| role design | persuasion |
 |  | positive attitude |
 |  | proactivity |
 |  | problem solving |
