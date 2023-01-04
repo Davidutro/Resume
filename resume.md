@@ -17,23 +17,23 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 |---|---|
 | budgeting | active listening |
 | copywriting | adaptability |
-| editing | attention to detail |
-| excel/sheets | call facilitation |
-| firing | communication |
-| git (version control system) | conflict resolution |
-| grammar | creativity |
-| hiring | decision making |
-| interviewing | delegation |
-| markdown | emotional intelligence |
-| note taking | empathy |
-| performance tracking | idea exchange |
-| policy creation | integrity |
-| project design | leadership |
-| project management | mediation |
-| research | moderation |
-| role design | persuasion |
-|  | positive attitude |
-|  | proactivity |
+| cryptocurrency wallet management | attention to detail |
+| editing | call facilitation |
+| excel/sheets | communication |
+| firing | conflict resolution |
+| git (version control system) | creativity |
+| grammar | decision making |
+| hiring | delegation |
+| interviewing | emotional intelligence |
+| markdown | empathy |
+| note taking | idea exchange |
+| performance tracking | integrity |
+| policy creation | leadership |
+| project design | mediation |
+| project management | moderation |
+| research | persuasion |
+| role design | positive attitude |
+| training | proactivity |
 |  | problem solving |
 |  | public speaking |
 |  | self-direction |
