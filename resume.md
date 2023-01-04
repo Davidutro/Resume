@@ -139,4 +139,4 @@ venues, set up and packed away equipment.
 - [Whiteboard Series with NEAR | Ep: 10 David Utrobin from MakerDAO](https://youtu.be/lhPdUDy1z1s) _(Video Interview, 2019/03)_
 - [POV Crypto Special Edition - The Role of Ether in Multi-Collateral DAI](https://anchor.fm/pov-crypto-podcast/episodes/POV-Crypto-Special-Edition---The-Role-of-Ether-in-Multi-Collateral-DAI-e1sfpkm/a-a92qcsr) _(Podcast guest, 2018/12)_
 - [How Does MakerDao’s Proposed 20% Charitable Giving Principle Make Sense?](https://medium.com/@davidutrobin/how-does-makerdaos-20-charitable-giving-principle-make-sense-79ded5455e41) _(Published article, 2018/07)_
-- [The Importance of Debt Ceilings within MakerDao’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50) _(Published article, 2018/04)_
+- [The Importance of Debt Ceilings within MakerDAO’s Collateralized Stable-Coin System](https://medium.com/@davidutrobin/the-importance-of-debt-ceilings-within-the-makerdao-collateralized-stable-coin-system-2a57f0688b50) _(Published article, 2018/04)_
