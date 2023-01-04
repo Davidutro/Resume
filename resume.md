@@ -39,6 +39,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 |  | self-direction |
 |  | sense of humor |
 |  | taking responsibility |
+|  | team management |
 |  | teamwork |
 |  | time management |
 
