@@ -4,8 +4,8 @@ Hi there! I'm a communications and operations professional with several years of
 
 - David.utro@gmail.com
 - [GitHub](https://github.com/Davidutro)
-- [Twitter](https://twitter.com/davidutro)
 - [LinkedIn](https://www.linkedin.com/in/davidutrobin7777)
+- [Twitter](https://twitter.com/davidutro)
 
 ## Skills
 
