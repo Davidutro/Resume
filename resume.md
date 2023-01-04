@@ -1,6 +1,6 @@
 # David Utrobin
 
-Hi there! I'm a communications and operations professional with several years of experience and a passion for improving organizations that produce powerful products.I've worked in academia, ecommerce, and crypto.
+Hi there! I'm a communications and operations professional with several years of experience and a passion for improving organizations that produce powerful products. I've worked in academia, ecommerce, and crypto.
 
 - [Email](david.utro@gmail.com)
 - [GitHub](https://github.com/Davidutro)
