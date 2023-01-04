@@ -50,7 +50,6 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 **[MakerDAO](https://makerdao.com/)**: Facilitator (2018/08 - 2023/01)
 
-- Attended conferences and workshops.
 - Created and led the governance communications team, a team focused on information accessibility and stakeholder coordination at MakerDAO.
 - Conducted a winddown of the team and return of excess funds.
 - Conducted human resource related activities including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
@@ -64,6 +63,7 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 - Managed relationships with accounting and payroll service providers.
 - Managed the team's multi-sig wallets.
 - Moderated the public forums.
+- Participated in conferences and workshops.
 - Performed parallel accounting and published public financials monthly.
 - Raised over $750,000 to fund the team.
 - Supported company calls.
