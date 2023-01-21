@@ -11,7 +11,7 @@ Hi there! I'm a communications and operations professional with several years of
 
 My peers usually think I'm easy-going, charismatic, communicative, emotionally intelligent, a fast learner, and a reference for writing and operations best practices.
 
-I have many hard and soft skills that are listed below. I'm also familiar with various project management methodologies, analytical exercises, and design methodologies.
+I have many hard and soft skills as well as tools I've worked with that are listed below. I'm also familiar with various project management methodologies, analytical exercises, and design methodologies.
 
 | **Hard Skills** | **Soft Skills** |
 |---|---|
@@ -49,9 +49,9 @@ I have many hard and soft skills that are listed below. I'm also familiar with v
 
 ### Experience
 
-**[MakerDAO](https://makerdao.com/)**: Facilitator (2021/08 - 2023/01)
+**[MakerDAO](https://makerdao.com/)**: Managing Director (2021/08 - 2023/01)
 
-- Created and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on information accessibility and stakeholder coordination at MakerDAO.
+- Founded and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on information accessibility and stakeholder coordination.
 - Conducted a winddown of the team and returned excess funds.
 - Conducted human resource-related activities, including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
 - Conducted stakeholder alignment calls for cross-team initiatives.
