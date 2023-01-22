@@ -43,7 +43,7 @@ I have many hard and soft skills as well as tools I've worked with that are list
 
 ### Education
 
-- Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2016)_
+Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2016)_
 
 ### Experience
 
