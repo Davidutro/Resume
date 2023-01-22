@@ -55,17 +55,17 @@ I have many hard and soft skills as well as tools I've worked with that are list
 - Identified needs, designed full and part-time roles, and sourced, interviewed, and onboarded 15 individuals.
 - Facilitated weekly office hour calls.
 - Led cross-team collaborations.
+  - Led emergency communications support program.
+  - Piloted cross-team project management initiative to train teams to follow SOPs for coordination of projects.
 - Led program to create a GDPR-compliant stakeholder database.
-- Led teamwide administrative and people management activities, including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
+- Led teamwide people management activities, including invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
 - Managed a team of 15 with three direct reports.
-- Managed relationships with accounting and payroll service providers.
-- Managed the team's multi-sig wallets.
 - Moderated the public forums.
+- Operated the team's multi-sig wallets.
 - Participated in conferences and workshops.
 - Performed parallel accounting and published [monthly public financials.](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting)
-- Piloted cross-team project management initiative to train teams to follow SOPs for coordination of projects.
 - Raised over $750,000 to fund the team.
-- Supported company calls.
+- Supported organization-wide calls.
   - Created slide decks, banners, and thumbnails.
   - Contributed to call strategy and improvement.
   - Facilitated and co-facilitated calls.
