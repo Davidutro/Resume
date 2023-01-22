@@ -13,35 +13,33 @@ My peers usually think I'm easy-going, charismatic, communicative, emotionally i
 
 I have many hard and soft skills as well as tools I've worked with that are listed below. I'm also familiar with various project management methodologies, analytical exercises, and design methodologies.
 
-| **Hard Skills** | **Soft Skills** |
-|---|---|
-| budgeting | active listening |
-| copywriting | adaptability |
-| cryptocurrency wallet management | attention to detail |
-| editing | call facilitation |
-| excel/sheets | communication |
-| firing | conflict resolution |
-| git (version control system) | creativity |
-| grammar | decision making |
-| hiring | delegation |
-| interviewing | emotional intelligence |
-| markdown | empathy |
-| note taking | idea exchange |
-| performance tracking | integrity |
-| policy creation | leadership |
-| project design | mediation |
-| project management | moderation |
-| research | persuasion |
-| role design | positive attitude |
-| training | proactivity |
-|  | problem solving |
-|  | public speaking |
-|  | self-direction |
-|  | sense of humor |
-|  | taking responsibility |
-|  | team management |
-|  | teamwork |
-|  | time management |
+| **Hard Skills** | **Soft Skills** | **Tools** |
+|---|---|---|
+| budgeting | adaptability | airtable |
+| copywriting | call facilitation | diagrams.net |
+| cryptocurrency wallet management | communication | excalidraw |
+| editing | conflict resolution | excel/sheets |
+| grammar | creativity | figma |
+| interviewing | critical thinking | git |
+| markdown | decision making | jira |
+| note taking | delegation | lucid.app  |
+| performance tracking | emotional intelligence | mailchimp |
+| policy creation | empathy | photoshop |
+| project design | idea exchange | trello |
+| project management | integrity |  |
+| research | leadership |  |
+| role design | mediation & moderation |  |
+| training | persuasion |  |
+| workflow design | positive attitude |  |
+|  | proactivity |  |
+|  | problem-solving |  |
+|  | public speaking |  |
+|  | self-direction |  |
+|  | sense of humor |  |
+|  | taking responsibility |  |
+|  | team management |  |
+|  | teamwork |  |
+|  | time management |  |
 
 ### Education
 
@@ -51,14 +49,14 @@ I have many hard and soft skills as well as tools I've worked with that are list
 
 **[MakerDAO](https://makerdao.com/)**: Managing Director (2021/08 - 2023/01)
 
-- Founded and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on information accessibility and stakeholder coordination.
+- Founded and led the [Governance Communications Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP30), a team focused on improving knowledge management and transparency by developing organization-wide programs.
 - Conducted a winddown of the team and returned excess funds.
-- Conducted human resource-related activities, including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
-- Conducted stakeholder alignment calls for cross-team initiatives.
+- Led teamwide administrative and people management activities, including compliance, invoice payments, onboarding, payroll, performance monitoring, professional development, and recruitment.
+- Piloted cross-team project management initiative to train teams to follow SOPs for coordination of projects.
 - Contributed to multiple [organization improvement proposals.](https://mips.makerdao.com/mips/list?search=davidutro&orderDirection=ASC&hideParents=false&)
-- Designed full and part-time jobs.
-- Hosted weekly office hour calls.
-- Led collaboration with a law firm to create a GDPR-compliant stakeholder database.
+- Identified needs, designed full and part-time roles, and sourced, interviewed, and onboarded 15 individuals.
+- Facilitated weekly office hour calls.
+- Led program to create a GDPR-compliant stakeholder database.
 - Led cross-team collaborations.
 - Managed a team of 15 with three direct reports.
 - Managed relationships with accounting and payroll service providers.
@@ -70,7 +68,7 @@ I have many hard and soft skills as well as tools I've worked with that are list
 - Supported company calls.
   - Created slide decks, banners, and thumbnails.
   - Contributed to call strategy and improvement.
-  - Hosted and cohosted calls.
+  - Facilitated and co-facilitated calls.
 - Underwent media & call facilitation training.
 
 **[MakerDAO](https://makerdao.com/)**: MIP Editor (2021/05 - 2021/08)
