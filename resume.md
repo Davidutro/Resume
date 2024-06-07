@@ -13,26 +13,26 @@ My peers think I'm analytical, easy-going, charismatic, communicative, emotional
 
 Below I list my hard skills, attributes, and tools I've worked with. I'm also experienced in project management methodologies, analytical exercises, and design methodologies.
 
-| **Hard Skills** | **Attributes** | **Tools** |  |
+| **Hard Skills** | **Attributes** | **Tools** |
 |---|---|---|---|
-| budgeting | adaptable | airtable |  |
-| call facilitation | analytical and creative thinker | diagrams.net |  |
-| cryptocurrency wallet management | conflict resolver | excalidraw |  |
-| editing & writing | emotionally intelligent | excel/sheets |  |
-| interviewing | great sense of humor | figma |  |
-| mediation and moderation | high integrity | git |  |
-| note taking | leads by example | jira |  |
-| performance tracking | morale booster | lucid.app |  |
-| policy design & enforcement | proactive | mailchimp |  |
-| project design & management | punctual | markdown |  |
-| public speaking | quick decision maker | photoshop |  |
-| research | reads a lot | trello |  |
-| role design | sharp communicator | VSCode |  |
-| strategic planning | skeptical and truth oriented |  |  |
-| team management | great sense of humor |  |  |
-| training |  |  |  |
-| workflow design |  |  |  |
-| writing |  |  |  |
+| budgeting | adaptable | airtable |
+| call facilitation | analytical and creative thinker | diagrams.net |
+| cryptocurrency wallet management | conflict resolver | excalidraw |
+| editing & writing | emotionally intelligent | excel/sheets |
+| interviewing | great sense of humor | figma |
+| mediation and moderation | high integrity | git |
+| note taking | leads by example | jira |
+| performance tracking | morale booster | lucid.app |
+| policy design & enforcement | proactive | mailchimp |
+| project design & management | punctual | markdown |
+| public speaking | quick decision maker | photoshop |
+| research | reads a lot | trello |
+| role design | sharp communicator | VSCode |
+| strategic planning | skeptical and truth oriented |  |
+| team management | great sense of humor |  |
+| training |  |  |
+| workflow design |  |  |
+| writing |  |  |
 
 ### Education
 
