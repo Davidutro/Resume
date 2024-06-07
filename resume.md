@@ -1,6 +1,6 @@
 # David Utrobin
 
-Hi there! I'm a communications and operations professional with several years of experience and a passion for improving organizations that produce powerful products. I've worked in academia, ecommerce, and crypto.
+Hi! I'm a professional with several years of experience in business development and operations. I have a deep passion for promoting powerful products by selling them or improving the organizations that produce them. I've worked in academia, ecommerce, and crypto.
 
 - David.utro@gmail.com
 - [GitHub](https://github.com/Davidutro)
@@ -9,43 +9,57 @@ Hi there! I'm a communications and operations professional with several years of
 
 ## Skills
 
-My peers usually think I'm easy-going, charismatic, communicative, emotionally intelligent, a fast learner, and a reference for writing and operations best practices.
+My peers think I'm analytical, easy-going, charismatic, communicative, emotionally intelligent, and a reference for writing and operations best practices.
 
-I have many hard and soft skills as well as tools I've worked with that are listed below. I'm also familiar with various project management methodologies, analytical exercises, and design methodologies.
+Below I list my hard skills, attributes, and tools I've worked with. I'm also experienced in project management methodologies, analytical exercises, and design methodologies.
 
-| **Hard Skills** | **Soft Skills** | **Tools** |
-|---|---|---|
-| budgeting | adaptability | airtable |
-| copywriting | call facilitation | diagrams.net |
-| cryptocurrency wallet management | communication | excalidraw |
-| editing | conflict resolution | excel/sheets |
-| grammar | creativity | figma |
-| interviewing | critical thinking | git |
-| markdown | decision making | jira |
-| note taking | delegation | lucid.app  |
-| performance tracking | emotional intelligence | mailchimp |
-| policy creation | empathy | photoshop |
-| project design | idea exchange | trello |
-| project management | integrity |  |
-| research | leadership |  |
-| role design | mediation & moderation |  |
-| training | persuasion |  |
-| workflow design | positive attitude |  |
-|  | proactivity |  |
-|  | problem-solving |  |
-|  | public speaking |  |
-|  | self-direction |  |
-|  | sense of humor |  |
-|  | taking responsibility |  |
-|  | team management |  |
-|  | teamwork |  |
-|  | time management |  |
+| **Hard Skills** | **Attributes** | **Tools** |  |
+|---|---|---|---|
+| budgeting | adaptable | airtable |  |
+| call facilitation | analytical and creative thinker | diagrams.net |  |
+| cryptocurrency wallet management | conflict resolver | excalidraw |  |
+| editing & writing | emotionally intelligent | excel/sheets |  |
+| interviewing | great sense of humor | figma |  |
+| mediation and moderation | high integrity | git |  |
+| note taking | leads by example | jira |  |
+| performance tracking | morale booster | lucid.app |  |
+| policy design & enforcement | proactive | mailchimp |  |
+| project design & management | punctual | markdown |  |
+| public speaking | quick decision maker | photoshop |  |
+| research | reads a lot | trello |  |
+| role design | sharp communicator | VSCode |  |
+| strategic planning | skeptical and truth oriented |  |  |
+| team management | great sense of humor |  |  |
+| training |  |  |  |
+| workflow design |  |  |  |
+| writing |  |  |  |
 
 ### Education
 
 Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2016)_
 
 ### Experience
+
+**Supportive LLC**: Founder (2024/01 - current)
+
+- Won Ajna as a client through a [grant proposal.](https://forum.ajna.finance/t/community-business-development-and-grants-support-proposal/110/1)
+- Launched ajnamatch.com, a matching site for borrowers and lenders as an attempt to solve a key UX problem.
+
+- Pursue projects, partners, and interests on behalf of the Ajna Protocol.
+- Serve as a voting delegate for the Grants Program.
+- Advise, analyze, and vote on grant proposals.
+- Create bi-annual reports on the state of the business.
+
+**[Ajna](https://ajna.finance/)**: VP of Community and Grants (2023/01 - 2024/01)
+
+- Created documentation; FAQs, ELI5, Whitepaper fixes, and more.
+- Created a database of stakeholders.
+- Developed relationships with builders, marketers, partners, and potential end users.
+- Managed the online community properties; Discord and the Forum.
+- Designed the Grants Program.
+- Executed administrative plan for the Grants program.
+- Created and maintained various trackers.
+- Attended industry conferences to network and sell our product.
 
 **[MakerDAO](https://makerdao.com/)**: Managing Director (2021/08 - 2023/01)
 
