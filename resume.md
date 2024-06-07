@@ -27,7 +27,7 @@ Below I list my hard skills, attributes, and tools I've worked with. I'm also ex
 | project design & management | punctual | markdown |
 | public speaking | quick decision maker | photoshop |
 | research | reads a lot | trello |
-| role design | sharp communicator | VSCode |
+| role design | sharp communicator | vscode |
 | strategic planning | skeptical and truth oriented |  |
 | team management | great sense of humor |  |
 | training |  |  |
