@@ -16,7 +16,7 @@ Below I list my hard skills, attributes, and tools I've worked with. I'm also ex
 | **Hard Skills** | **Attributes** | **Tools** |
 |---|---|---|
 | budgeting | adaptable | airtable |
-| call facilitation | analytical & creative thinker | diagrams.net |
+| call facilitation | analytical, creative, & critical thinker | diagrams.net |
 | cryptocurrency wallet management | conflict resolver | excalidraw |
 | editing & writing | emotionally intelligent | excel/sheets |
 | interviewing | great sense of humor | figma |
