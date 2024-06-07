@@ -20,17 +20,17 @@ Below I list my hard skills, attributes, and tools I've worked with. I'm also ex
 | cryptocurrency wallet management | conflict resolver | excalidraw |
 | editing & writing | emotionally intelligent | excel/sheets |
 | interviewing | great sense of humor | figma |
-| mediation and moderation | great sense of humor | git |
-| note taking | high integrity | jira |
-| performance tracking | large crypto industry professional network | lucid.app |
-| policy design & enforcement | leads by example | mailchimp |
-| project design & management | morale booster | markdown |
-| public speaking | proactive | photoshop |
-| research | punctual | trello |
-| role design | quick decision maker | vscode |
-| strategic planning | reads a lot |  |
-| team management | sharp communicator |  |
-| training | skeptical and truth oriented |  |
+| mediation and moderation | high integrity | git |
+| note taking | large crypto industry professional network | jira |
+| performance tracking | leads by example | lucid.app |
+| policy design & enforcement | morale booster | mailchimp |
+| project design & management | proactive | markdown |
+| public speaking | punctual | photoshop |
+| research | quick decision maker | trello |
+| role design | reads a lot | vscode |
+| strategic planning | sharp communicator |  |
+| team management | skeptical and truth oriented |  |
+| training |  |  |
 | workflow design |  |  |
 | writing |  |  |
 
