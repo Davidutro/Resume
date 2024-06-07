@@ -14,7 +14,7 @@ My peers think I'm analytical, easy-going, charismatic, communicative, emotional
 Below I list my hard skills, attributes, and tools I've worked with. I'm also experienced in project management methodologies, analytical exercises, and design methodologies.
 
 | **Hard Skills** | **Attributes** | **Tools** |
-|---|---|---|---|
+|---|---|---|
 | budgeting | adaptable | airtable |
 | call facilitation | analytical and creative thinker | diagrams.net |
 | cryptocurrency wallet management | conflict resolver | excalidraw |
