@@ -40,7 +40,7 @@ Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2
 
 **Supportive LLC**: Founder (2024/01 - current)
 
-- Won Ajna as a client through a [grant proposal.](https://forum.ajna.finance/t/community-business-development-and-grants-support-proposal/110/1)
+- Won [Ajna](https://ajna.finance/)** as a client through a [grant proposal.](https://forum.ajna.finance/t/community-business-development-and-grants-support-proposal/110/1)
 - Launched ajnamatch.com, a matching site for borrowers and lenders as an attempt to solve a key UX problem.
 - Pursue partners, projects, and interests on behalf of the Ajna Protocol.
 - Serve as a voting delegate for the Grants Program.
