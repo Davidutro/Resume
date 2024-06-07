@@ -32,11 +32,11 @@ Below I list my hard skills, attributes, and tools I've worked with. I'm also ex
 | team management | skeptical & truth oriented |  |
 | training |  |  |
 
-### Education
+## Education
 
 Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2016)_
 
-### Experience
+## Experience
 
 **Supportive LLC**: Founder (2024/01 - current)
 
@@ -141,7 +141,7 @@ Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2
 - Operated sound boards & stage lighting panels, fine-tuned audio for various
 venues and set up and packed away equipment.
 
-### Featured
+## Public Appearances & Content
 
 - [Tutorial: Ajna x Summer.fi: DeFi Lending & Borrowing against Anything!](https://www.youtube.com/watch?v=2WtWinp-9eA)
 - [YouTube Playlist that includes 117 public calls I hosted for MakerDAO](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI) _(Call Host, 2018/11 - 2021/04)_
