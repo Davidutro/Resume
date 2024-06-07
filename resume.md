@@ -16,23 +16,21 @@ Below I list my hard skills, attributes, and tools I've worked with. I'm also ex
 | **Hard Skills** | **Attributes** | **Tools** |
 |---|---|---|
 | budgeting | adaptable | airtable |
-| call facilitation | analytical and creative thinker | diagrams.net |
+| call facilitation | analytical & creative thinker | diagrams.net |
 | cryptocurrency wallet management | conflict resolver | excalidraw |
 | editing & writing | emotionally intelligent | excel/sheets |
 | interviewing | great sense of humor | figma |
-| mediation and moderation | high integrity | git |
+| mediation & moderation | high integrity | git |
 | note taking | large crypto industry professional network | jira |
 | performance tracking | leads by example | lucid.app |
 | policy design & enforcement | morale booster | mailchimp |
 | project design & management | proactive | markdown |
 | public speaking | punctual | photoshop |
 | research | quick decision maker | trello |
-| role design | reads a lot | vscode |
+| role & workflow design | reads a lot | vscode |
 | strategic planning | sharp communicator |  |
-| team management | skeptical and truth oriented |  |
+| team management | skeptical & truth oriented |  |
 | training |  |  |
-| workflow design |  |  |
-| writing |  |  |
 
 ### Education
 
