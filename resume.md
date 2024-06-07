@@ -143,7 +143,7 @@ venues and set up and packed away equipment.
 
 ## Public Appearances & Content
 
-- [Tutorial: Ajna x Summer.fi: DeFi Lending & Borrowing against Anything!](https://www.youtube.com/watch?v=2WtWinp-9eA)
+- [Tutorial: Ajna x Summer.fi: DeFi Lending & Borrowing against Anything!](https://www.youtube.com/watch?v=2WtWinp-9eA) _(2024/02)_
 - [YouTube Playlist that includes 117 public calls I hosted for MakerDAO](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI) _(Call Host, 2018/11 - 2021/04)_
 - [[AMA] Communicating Governance with David Utrobin](https://youtu.be/voLdWJ9fMhA) _(Video Interview, 2021/07)_
 - [Whiteboard Series with NEAR | Ep: 10 David Utrobin from MakerDAO](https://youtu.be/lhPdUDy1z1s) _(Video Interview, 2019/03)_
