@@ -9,7 +9,7 @@ Hi! I'm a professional based in Tampa, Florida with several years of experience 
 
 ## Skills
 
-My peers think I'm analytical, easy-going, charismatic, communicative, emotionally intelligent, and a reference for writing and operations best practices.
+My colleagues would tell you I'm analytical, easy-going, charismatic, communicative, and emotionally intelligent. I'm a reference for communications and operational best practices.
 
 Below I list my hard skills, attributes, and tools I've worked with. I'm also experienced in project management methodologies, analytical exercises, and design methodologies.
 
