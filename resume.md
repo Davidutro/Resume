@@ -1,6 +1,6 @@
 # David Utrobin
 
-Hi! I'm a professional based in Tampa, Florida with several years of experience in business development and operations. I have a deep passion for promoting powerful products by selling them or improving the organizations that produce them. I've worked in academia, ecommerce, and crypto.
+Hi! I'm a professional based in Tampa, Florida with several years of experience in business development and operations. I have a deep passion for promoting powerful products and for improving the organizations that produce them. I've worked in academia, ecommerce, and crypto.
 
 - David.utro@gmail.com
 - [GitHub](https://github.com/Davidutro)
