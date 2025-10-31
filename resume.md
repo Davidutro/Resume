@@ -112,7 +112,7 @@ Bachelor’s Degree in Corporate Communications, **Baruch College** _(2011 – 2
 - Managed customer service needs.
 - Worked with our software engineer to develop the back-end logistics system.
 
-**[Baruch College](https://www.baruch.cuny.edu/)**: Program Administrator (2016/01 – 2017/07)
+**[Baruch College, Arts Administration MA Program](https://www.baruch.cuny.edu/)**: Program Administrator (2016/01 – 2017/07)
 
 - Assisted fundraising efforts by scheduling dinners, identifying potential donors, and writing messages.
 - Drafted agendas for meetings.
